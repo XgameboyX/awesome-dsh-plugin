@@ -1,0 +1,6 @@
+url: https://github.com/XgameboyX/dsh-libretv
+name: XgameboyX/dsh-libretv
+category: browser
+description:
+  en: 'Embeds a LibreTV free-video search and watch panel in the DSH sidebar, plus a bundled Hongguo short-drama player whose vendored local server runs on loopback and streams inside the same panel.'
+  zh: '在 DSH 侧栏嵌入 LibreTV 免费影视搜索播放面板，并内置红果短剧本地播放服务，随包自带的服务端在本机回环地址运行并在同一面板内直接播放。'
